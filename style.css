@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+header{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+main{
+    width: 100%;
+}
+section{
+    padding: 25px;
+    width: 80%;
+}
+img{
+    width: 500px;
+    height: 400px;
+}
+button{
+    width: 120px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: black;
+    outline: none;
+    text-align: center;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
